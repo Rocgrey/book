@@ -101,3 +101,6 @@ To github.com:Rocgrey/book.git
 
 *************************************************************************************
 ## 上传成功
+## 有时候会限制上传的文件的大小
+## File book_01/压缩《Python爬虫开发与项目实战》.7z is 87.72 MB; t                                                                                                                                                                                                         his is ## larger than GitHub's recommended maximum file size of 50.00 MB
+
